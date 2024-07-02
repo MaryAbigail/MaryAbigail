@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaryOruche
+- 👋 Hi, I’m Mary
 - 👀 I’m interested in learning and sharing knowledge 
 - 🌱 I’m currently learning Python Programming and Data Analysis..
 - 💞️ I’m looking to collaborate on ...
