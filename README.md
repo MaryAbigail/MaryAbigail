@@ -5,6 +5,7 @@
 - 📫 How to reach me: maryabigail178@gmail.com...
 - 😄 Pronouns: she/her ...
 - ⚡ Fun fact: I am an ardent reader.
+
 Ask me about: Python, Data Analysis
 
 MaryAbigail/MaryAbigail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
